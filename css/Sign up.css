@@ -1,0 +1,125 @@
+body{
+    font-family: 'Bitter', serif;
+}
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1300px ;
+    background-color: darkblue;
+}
+.display{
+    width: 80%;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    
+}
+.h{
+    height: 50px;
+    width: 40px;
+    border: 3px solid white;
+    color: gray;
+    text-align: center;
+    font-size: 50px;
+    line-height: 1;
+}
+.login{
+    height: 50px;
+    /* width: 16%; */
+    font-size: 23px;
+    color: white;
+    text-align: center;
+    line-height: 0;
+    padding-left: 550px;
+}
+.log{
+    height: 50px;
+    width: 6%;
+    background-color: black;
+    color: white;
+    line-height: 2;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+.sign{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.white{
+    width: 80%;
+    height: 950px;
+    background-color: white;
+    margin: 10%;
+    transform: translateY(-60px); 
+    display: flex;
+    padding: 5px;
+}
+.mini{
+    height: 640px;
+    width: 30%;
+    box-shadow: 0px 5px 3px 3px rgb(0, 0,0, 0.5);
+    margin-left: 20px;
+    transform: translateY(120px);
+    border-radius: 7px;
+    margin-top: 40px;
+    padding: 12px;
+}
+.max{
+    height: 800px;
+    width: 50%;
+    box-shadow: 0px 5px 3px 3px rgb(0, 0,0, 0.5);
+    margin-left: 30px;
+    transform: translateY(120px);
+    border-radius: 7px;
+    transform: translateY(50px);
+    padding-top: 50px;
+    padding-left: 20px;
+
+}
+.head{
+    color: darkblue;
+    font-size: 40px;
+}
+hr{
+    margin: 30px;
+}
+.paragraph{
+    font-size: 18px;
+}
+input{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 15px;
+    
+   
+}
+select{
+    width: 82%;
+    height: 30px;
+    margin-bottom: 15px;
+   
+}
+.creat{
+    height: 50px;
+    width: 45%;
+    background-color: darkblue;
+    margin-top: 50px;
+    text-align: center;
+    line-height: 3;
+    border-radius: 7px;
+    font-size: 18px;
+    
+}
+.creat a{
+    color: white;
+    text-decoration: none;
+}
+#term{
+    text-align: center;
+    margin-top: 50px;
+}
+ 

@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.background{
+    width: 100%;
+    position: absolute;
+    background-color: darkblue;
+    
+
+}
+.h{
+    height: 85px;
+    width: 60px;
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    line-height: 1.8;
+    margin-top: 20px;
+    margin-left: 50%;
+}
+.web{
+    margin-left: 47%;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+.whitediv{
+    height: 480px;
+    width: 550px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-bottom: 20px;
+    box-shadow: 2px 3px 2px 2px;
+}
+.acct{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
+input{
+    width: 85%;
+    height: 40px;
+    margin-left: 7%;
+    margin-bottom: 10%;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+label{
+    font-size: 20px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.log{
+    height: 60px;
+    width: 85%;
+    text-align: center;
+    background-color: darkblue;
+    font-size: 30px;
+    margin: 5%;
+    line-height: 1.8;
+    border-radius: 5px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+hr{
+    margin: 5%;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: -10px;
+}
+#colo{
+    color: white;
+    margin-top: 30px;
+}
+#line{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#color{
+    color: white;
+    margin-top: -40px;
+}
